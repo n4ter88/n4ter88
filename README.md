@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n4ter88
+- 👋 Hi, I’m @n4ter
 - 👀 I’m interested in learning to code in next.js and using react
 - 🌱 I’m currently learning next.js/react and doing a full stack
 - 💞️ I’m looking to collaborate on ...
